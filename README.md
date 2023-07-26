@@ -10,8 +10,9 @@ Limiting the number of attempts.
 
 Adding more rounds.
 
-
 Displaying score.
 
 Giving points based on the number of attempts.
+
+
 ![Screenshot 2023-07-27 040144](https://github.com/smdydx/GUESSING_NUMBER_GAME/assets/77625439/79626541-bf16-4f52-a507-867e611a2200)
